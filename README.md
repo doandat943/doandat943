@@ -14,7 +14,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=doandat943&show_icons=true&hide=contribs,issues&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doandat943&layout=compact&show_icons=true&hide_border=true" />
   </td>
-  <td width="52%"><img alt="gif" align="right" src="https://media3.giphy.com/media/3wqWPVpbGjSApVUPKr/giphy.gif"/></td>
+  <td width="52%"><img alt="gif" align="right" src="[https://media3.giphy.com/media/3wqWPVpbGjSApVUPKr/giphy.gif](https://lvgames.net/lqm/wp-content/uploads/2020/11/hinh_nen_bright_mac_dinh_download.jpg)"/></td>
 </tr>
 <table>
 
