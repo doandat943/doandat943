@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Hi, I'm Duc Thanh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"> - aka Owner [JzonTech][website] = Website Developer + Security Researcher 🌱 
+### Hi, I'm Doan Dat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"> - aka doandat943[website] = People 🌱 
 
 
 - 🔭 I'm passionate about Data Science (DS), Build Website for Make Money Online (MMO), Programing fun tools.
@@ -11,8 +11,8 @@
 <table>
 <tr>
   <td width="48%">
-    <img src="https://github-readme-stats.vercel.app/api?username=ducthanh-jtech&show_icons=true&hide=contribs,issues&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducthanh-jtech&layout=compact&show_icons=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=doandat943&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doandat943&layout=compact&show_icons=true&hide_border=true" />
   </td>
   <td width="52%"><img alt="gif" align="right" src="https://media3.giphy.com/media/3wqWPVpbGjSApVUPKr/giphy.gif"/></td>
 </tr>
@@ -38,18 +38,17 @@
 
 ### ☕ Buy for me a coffee
 
-- [Momo Wallet: 0966142061 (PHAM DUC THANH)](https://nhantien.momo.vn/0966142061)
-- [MB Bank: 5587733666 (PHAM DUC THANH)](#)
-
+- [Momo Wallet: 0345785426 (DANG DOAN DAT)](https://nhantien.momo.vn/0345785426)
+- [MB Bank: 600600608888 (DANG DOAN DAT)](#)
 
 ---
 
 ### 📫 Contact me via:
 
-[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&color=395693&logoColor=white)](https://www.facebook.com/ducthanhit)
-[![Zalo](https://img.shields.io/badge/Zalo-0077B5?style=for-the-badge&logo=zalo&color=0068ff&logoColor=white)](https://www.zalo.me/0966142061)
+[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&color=395693&logoColor=white)](https://www.facebook.com/doandat943)
+[![Zalo](https://img.shields.io/badge/Zalo-0077B5?style=for-the-badge&logo=zalo&color=0068ff&logoColor=white)](https://www.zalo.me/0345785426)
 
-[website]: https://www.jzontech.asia
+[website]: https://viotp.com
 
 <!--
 **doandat943/doandat943** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
