@@ -38,8 +38,8 @@
 
 ### ☕ Buy for me a coffee
 
-- [Momo Wallet: 0345785426 (DANG DOAN DAT)](https://nhantien.momo.vn/0345785426)
-- [MB Bank: 600600608888 (DANG DOAN DAT)](#)
+- Momo: [0345785426] (DANG DOAN DAT)
+- MB Bank: [600600608888] (DANG DOAN DAT)
 
 ---
 
